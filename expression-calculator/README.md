@@ -22,3 +22,7 @@ gcc myCalc.c -o myCalc
 
 **Run:**
 ./myCalc
+
+
+## Notes
+This project is based on a class assignment.  
