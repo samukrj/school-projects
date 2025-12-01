@@ -3,7 +3,7 @@
  * Supports expressions with basic operators and parentheses.
  * Example: 8+(4*7)
  *
- * Author: Samu
+ * Author: Samuel Krajcovic
  * Description: School project demonstrating recursion, basic parsing and
  *              input validation in C.
  */
